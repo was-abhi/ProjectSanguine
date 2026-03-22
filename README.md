@@ -80,7 +80,7 @@ PostgreSQL (via Supabase) stores users, roles, and system data.
 
 Sanguine is deployed as a web application and can be accessed through a browser.
 
-https://<your-deployed-url>](https://project-sanguine.vercel.app
+https://project-sanguine.vercel.app
 
 ---
 
